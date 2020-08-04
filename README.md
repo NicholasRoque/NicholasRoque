@@ -7,10 +7,8 @@ Sou formado em Técnico em Informática pela ETEC Machado de Assis e estou atual
 
  &nbsp; Atualmente não trabalho, apenas estudo
  <br/> &nbsp; Buscando aprender sobre desenvolvimento web e mobile para entrar no mercado de trabalho futuramente
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+ <br/> &nbsp; Sobre mim: Curto tecnologias, jogos (como lol e dark souls) e anime
+ <br/> &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-NicholasRoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-gabriel-dos-santos-roque-9113511b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bm3gFgpeVTrWRT%2FCuiKGK9Q%3D%3D)](https://www.linkedin.com/in/nicholas-gabriel-dos-santos-roque-9113511b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bm3gFgpeVTrWRT%2FCuiKGK9Q%3D%3D) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-nicholas.sroque@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicholas.sroque@gmail.com)](mailto:nicholas.sroque@gmail.com)
 

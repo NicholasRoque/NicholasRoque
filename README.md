@@ -1,8 +1,8 @@
 # Nicholas Roque
-<central>
+<center>
 	<img src="https://github-readme-stats.vercel.app/api?username=NicholasRoque&theme=bear" alt="stats" height="145">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasRoque&layout=compact&theme=bear" alt="langs" height="145">
-</central>
+</center>
 ## Olá
 Sou formado em Técnico em Informática pela ETEC Machado de Assis e estou atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal
 

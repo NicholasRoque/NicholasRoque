@@ -1,5 +1,5 @@
 # Nicholas Roque
-<central  style="display: inline_block">
+<central style="display: inline">
 	<img src="https://github-readme-stats.vercel.app/api?username=NicholasRoque&theme=bear" alt="stats" height="145">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasRoque&layout=compact&theme=bear" alt="langs" height="145">
 </central>

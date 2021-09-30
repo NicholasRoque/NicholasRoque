@@ -26,6 +26,7 @@ Sou formado em Técnico em Informática pela ETEC Machado de Assis e estou atual
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" >
 	
 	
